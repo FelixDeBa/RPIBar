@@ -2,7 +2,7 @@
 Name=Polybar
 Comment=Abrir el Polybar
 Exec=bash -c "polybar rpi4"
-Icon=/home/felix/Public/polybar-icon.png
+Icon=/path/to/polybar-icon.png
 Terminal=false
 StartupWMClass=Polybar
 Type=Application
