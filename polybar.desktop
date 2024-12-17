@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Polybar
+Comment=Abrir el Polybar
+Exec=bash -c "polybar rpi4"
+Icon=/home/felix/Public/polybar-icon.png
+Terminal=false
+StartupWMClass=Polybar
+Type=Application
+Categories=Utility
+StartupNotify=true
